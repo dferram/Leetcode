@@ -54,7 +54,7 @@ Each file is named after its problem number and title from LeetCode.
 | --- | --- |
 | ![Easy](https://img.shields.io/badge/Easy-00B8A3?style=flat-square&logoColor=white) | 6 |
 | ![Medium](https://img.shields.io/badge/Medium-FFC01E?style=flat-square&logoColor=white) | 1 |
-| ![Hard](https://img.shields.io/badge/Hard-FF375F?style=flat-square&logoColor=white) | 0 |
+| ![Hard](https://img.shields.io/badge/Hard-FF375F?style=flat-square&logoColor=white) | 3 |
 
 ### SQL 50
 
@@ -75,4 +75,4 @@ Each file is named after its problem number and title from LeetCode.
 
 ---
 
-> Built by [Fernando Ramírez](https://github.com/dferram) · 2025
+> Built by [Fernando Ramírez](https://github.com/dferram) · 2026
